@@ -1,0 +1,15 @@
+/*style.css*/
+
+.instructions {
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+form input {
+	background-color:yellow;
+}
+
+form label[for="lastname"]{
+	font-weight: bold;
+}
